@@ -1,6 +1,7 @@
 import os
 from datetime import timedelta
 
+
 # Mongo
 MONGO_USER = os.getenv('MONGO_USER')
 MONGO_PASSWORD = os.getenv('MONGO_PASSWORD')
