@@ -1,5 +1,6 @@
 flask==2.0.2
-flask-jwt==0.3.2
+flask-jwt-extended==4.3.1
 flask-cors==3.0.10
 flask-restful==0.3.9
 mongoengine==0.23.1
+dnspython==2.1.0
